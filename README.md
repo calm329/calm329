@@ -31,6 +31,7 @@
 ### Back-End Development
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
 <img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/goland/goland-plain.svg" />
 <img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" />
