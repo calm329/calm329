@@ -62,11 +62,11 @@
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="Bitbucket" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bitbucket/bitbucket-original.svg" /><br><br>
 
-## Methodologies and Practices
+### Methodologies and Practices
 - Agile Methodology
 - CI/CD Practices
 
-## Testing
+### Testing
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jest/jest-plain.svg" />
 <img align="left" alt="Mocha" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mocha/mocha-original.svg" />
 <img align="left" alt="JUnit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/junit/junit-original.svg" />
