@@ -9,6 +9,8 @@
 - 💬 Ask me about anything related to full stack development or AI; I'm always happy to help with insights or problem-solving.
 - ⚡ Fun fact: When I'm not coding, I'm either playing volleyball or exploring new hiking trails for some adventure and relaxation.
 
+<br><br>
+
 ## 💻 My SkillSet
 ### Programming Languages
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
@@ -72,3 +74,4 @@
 <img align="left" alt="JUnit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/junit/junit-original.svg" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/puppeteer/puppeteer-original.svg" /><br><br>
+
