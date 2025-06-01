@@ -7,7 +7,7 @@
 - 🌱 I’m constantly learning and exploring new technologies in AI and full stack development, with a focus on enhancing scalability and performance.
 - 👯 I’m looking to collaborate on projects involving machine learning, data processing, and innovative web applications.
 - 💬 Ask me about anything related to full stack development or AI; I'm always happy to help with insights or problem-solving.
-- ⚡ Fun fact: When I'm not coding, I'm either playing volleyball or exploring new hiking trails for some adventure and relaxation.
+- ⚡ Not Fun fact: When I'm not coding, I'm either playing volleyball or exploring new hiking trails for some adventure and relaxation.
 
 <br><br>
 
